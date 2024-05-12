@@ -1,2 +1,2 @@
-# Blackjack-Card-Game
+# Blackjack Card Game
 In this application, we are simulating a blackjack game that takes place in real life with a deck of cards played between a person and a dealer. I tried to at least somewhat replicate the Casino experience with tokens and whatnot. The user has to make a bet before each round and in this simplified version of the game, there can only be two possible scenarios: the user wins or the dealer wins. Thus, the user will either earn tokens after the round or lose tokens. Also, the user has the option of purchasing a perk using their tokens which costs 20 tokens. This perk allows the user to see the dealer's hidden card in the next round. The user can quit the application whenever they please. 
